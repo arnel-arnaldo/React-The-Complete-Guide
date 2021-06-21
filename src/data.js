@@ -4,44 +4,38 @@ const data = {
       id: '1',
       name: 'Kevin Durant - NBA All Star 2021',
       price: 63,
-      image:
-        'https://arnoldhayescom-my.sharepoint.com/:i:/g/personal/arnelarnaldo_arnold-hayes_com/EVyIjYhRWbhCipHiJINmvZYBp-bWMyuLD555HhEctdZfPw?e=c0y3FK',
+      image: '/images/Kevin_Durant_Nets_All_Star.JPG',
     },
     {
       id: '2',
       name: 'Giannis Antetokounmpo - Bobblehead',
       price: 56,
-      image:
-        'https://arnoldhayescom-my.sharepoint.com/:i:/g/personal/arnelarnaldo_arnold-hayes_com/EZZyc5_Gk8ROkFKuXHUqe9MBvd0kV7hewml5MgopCjW93w?e=cvmqWq',
+      image: '/images/Giannis_Antetokounmpo_Bobblehead.jpg',
     },
     {
       id: '3',
       name: 'Zion Williamson - Bobblehead',
       price: 62,
-      image:
-        'https://arnoldhayescom-my.sharepoint.com/:i:/g/personal/arnelarnaldo_arnold-hayes_com/EaeWBqfxWvBBmLobotD2ncUBKUyBGHF3gMcv5uFa2C6mkA?e=4iLZAd',
+      image: '/images/Zion_Williamson_Bobblehead.JPG',
     },
-    {
-      id: '4',
-      name: 'Stephen Curry - 3 Point All Star 2021',
-      price: 63,
-      image:
-        'https://arnoldhayescom-my.sharepoint.com/:i:/g/personal/arnelarnaldo_arnold-hayes_com/EeSxKg3WQsJKq9vjEpqzad4BTDPMIAH2KOp8y2BybM9p-Q?e=MYd3g9',
-    },
-    {
-      id: '5',
-      name: 'Tim Duncan - The Big Fundamental',
-      price: 57,
-      image:
-        'https://arnoldhayescom-my.sharepoint.com/:i:/g/personal/arnelarnaldo_arnold-hayes_com/ESxy57loUmhDraYAVuHYoVcBQ7Pr3XcZgRiFO4z4cOSTKg?e=iNJ8i4',
-    },
-    {
-      id: '6',
-      name: 'Luka Doncic - Bobblehead',
-      price: 57,
-      image:
-        'https://arnoldhayescom-my.sharepoint.com/:i:/g/personal/arnelarnaldo_arnold-hayes_com/EaeWBqfxWvBBmLobotD2ncUBKUyBGHF3gMcv5uFa2C6mkA?e=Eacs8u',
-    },
+    // {
+    //   id: '4',
+    //   name: 'Stephen Curry - 3 Point All Star 2021',
+    //   price: 63,
+    //   image: '/images/Stephen_Curry_3Point_AllStar.JPG',
+    // },
+    // {
+    //   id: '5',
+    //   name: 'Tim Duncan - The Big Fundamental',
+    //   price: 57,
+    //   image: '/images/Tim_Duncan_Bobblehead.JPG',
+    // },
+    // {
+    //   id: '6',
+    //   name: 'Luka Doncic - Bobblehead',
+    //   price: 57,
+    //   image: '/images/Luka_Doncic_Bobblehead.JPG',
+    // },
   ],
 }
 
