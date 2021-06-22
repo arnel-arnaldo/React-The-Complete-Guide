@@ -3,19 +3,19 @@ const data = {
     {
       id: '1',
       name: 'Kevin Durant - NBA All Star 2021',
-      price: 63,
+      price: 630,
       image: '/images/Kevin_Durant_Nets_All_Star.JPG',
     },
     {
       id: '2',
       name: 'Giannis Antetokounmpo - Bobblehead',
-      price: 56,
+      price: 560,
       image: '/images/Giannis_Antetokounmpo_Bobblehead.jpg',
     },
     {
       id: '3',
       name: 'Zion Williamson - Bobblehead',
-      price: 62,
+      price: 620,
       image: '/images/Zion_Williamson_Bobblehead.JPG',
     },
     // {
