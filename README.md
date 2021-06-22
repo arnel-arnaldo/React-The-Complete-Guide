@@ -10,7 +10,7 @@ Covers the following lessons:
 - **6.48** [Add Sample Products](https://www.udemy.com/course/react-the-complete-guide/learn/lecture/23439526)
 - **6.49** [Render Products](https://www.udemy.com/course/react-the-complete-guide/learn/lecture/23439528)
 - **6.50** [Use Cart Items State Hook](https://www.udemy.com/course/react-the-complete-guide/learn/lecture/23439530)
-- **6.51** []()
+- **6.51** [Show Cart Items](https://www.udemy.com/course/react-the-complete-guide/learn/lecture/23439532)
 - **6.52** []()
 - **6.53** []()
 - **6.54** []()
