@@ -12,6 +12,6 @@ Covers the following lessons:
 - **6.50** [Use Cart Items State Hook](https://www.udemy.com/course/react-the-complete-guide/learn/lecture/23439530)
 - **6.51** [Show Cart Items](https://www.udemy.com/course/react-the-complete-guide/learn/lecture/23439532)
 - **6.52** [Remove Item From Cart](https://www.udemy.com/course/react-the-complete-guide/learn/lecture/23439538)
-- **6.53** []()
+- **6.53** [Calculate Cart Summary](https://www.udemy.com/course/react-the-complete-guide/learn/lecture/23439544)
 - **6.54** []()
 - **6.55** []()
